@@ -1,5 +1,6 @@
 Hola esta es la historia de como aprender a realizar cambios
 en un archivo a través de Git
+Pero también para aprender todos los comandos principales
 
 Kike Aguilera
 12/10/20
