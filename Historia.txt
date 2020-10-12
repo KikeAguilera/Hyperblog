@@ -4,3 +4,5 @@ Pero también para aprender todos los comandos principales
 Además sirve de practica para memorizar todos los comandos
 Kike Aguilera
 12/10/20
+
+Parece que hubo cambios para usar el comando git checkout
